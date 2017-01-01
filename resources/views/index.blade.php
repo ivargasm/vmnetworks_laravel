@@ -26,6 +26,7 @@
 									    <div class="modal-content">
 									    	<h4>Laptops</h4>
 									      	<p>Reparación y servicio a computadoras y laptops que no encienden, lentas, dañadas por virus, con publicidades estorbosas, identificamos y ofrecemos soluciones para que tus computadoras no dejen de producir, ofrecemos cuidado y mantenimiento por personal calificado.</p>
+									      	<p>Reparación y servicio a computadoras y laptops que no encienden, lentas, dañadas por virus, con publicidades estorbosas, identificamos y ofrecemos soluciones para que tus computadoras no dejen de producir, ofrecemos cuidado y mantenimiento por personal calificado.</p>
 									    </div>
 									    <div class="modal-footer">
 									      	<a href="#!" class=" modal-action modal-close waves-effect waves-green btn-flat">Aceptar</a>
